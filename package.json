@@ -1,0 +1,96 @@
+{
+    "_from": "@galadrielme/qwerty-ui",
+    "_id": "@galadrielme/qwerty-ui@1.0.0",
+    "_inBundle": false,
+    "_integrity": "sha512-1ha2pMYHECmqngMaEuq3xUz2R36z0tpJPQcntiU8RiElPGytXzwWo4t2AtBV221bcmkhqzMed+Q+oZuQauORJg==",
+    "_location": "/@galadrielme/qwerty-ui",
+    "_phantomChildren": {},
+    "_requested": {
+        "type": "tag",
+        "registry": true,
+        "raw": "@galadrielme/qwerty-ui",
+        "name": "@galadrielme/qwerty-ui",
+        "escapedName": "@galadrielme%2fqwerty-ui",
+        "scope": "@galadrielme",
+        "rawSpec": "",
+        "saveSpec": null,
+        "fetchSpec": "latest"
+    },
+    "_requiredBy": [
+        "#USER",
+        "/"
+    ],
+    "_resolved": "https://registry.npmjs.org/@galadrielme/qwerty-ui/-/qwerty-ui-1.0.0.tgz",
+    "_shasum": "18be7a290f9f0670f4fdc990b2a4f853187adef8",
+    "_spec": "@galadrielme/qwerty-ui",
+    "_where": "D:\\wkh\\code\\pharstation-gui",
+    "author": {
+        "name": "galadrielme"
+    },
+    "bugs": {
+        "url": "https://github.com/Galadrielme/qwerty/issues"
+    },
+    "bundleDependencies": false,
+    "dependencies": {
+        "@babel/plugin-proposal-class-properties": "^7.8.3",
+        "@babel/plugin-proposal-decorators": "^7.8.3",
+        "@babel/polyfill": "^7.4.4",
+        "@babel/preset-env": "^7.9.6",
+        "@types/crypto-js": "^3.1.47",
+        "axios": "^0.19.0",
+        "clipboard": "^2.0.6",
+        "core-decorators": "^0.20.0",
+        "countup": "^1.8.2",
+        "crypto-js": "^4.0.0",
+        "dayjs": "^1.8.15",
+        "echarts": "^4.2.1",
+        "extract-text-webpack-plugin": "^3.0.2",
+        "file-saver": "^2.0.2",
+        "jsx-loader": "^0.13.2",
+        "lodash": "^4.17.15",
+        "save": "^2.4.0",
+        "script-loader": "^0.7.2",
+        "uglifyjs-webpack-plugin": "^2.2.0",
+        "url-loader": "^4.1.0",
+        "vue": "^2.6.10",
+        "vue-loader": "^15.9.2",
+        "vue-router": "^3.1.2",
+        "vuex": "^3.1.1"
+    },
+    "deprecated": false,
+    "description": "just for fun",
+    "devDependencies": {
+        "@babel/plugin-syntax-jsx": "^7.10.1",
+        "@types/lodash": "^4.14.154",
+        "@vue/babel-preset-jsx": "^1.1.2",
+        "@vue/cli-plugin-babel": "^3.12.1",
+        "@vue/cli-service": "^3.11.0",
+        "babel-helper-vue-jsx-merge-props": "^2.0.3",
+        "babel-plugin-syntax-jsx": "^6.18.0",
+        "babel-plugin-transform-vue-jsx": "^3.7.0",
+        "babel-preset-es2015": "^6.24.1",
+        "less": "^2.7.3",
+        "less-loader": "^5.0.0",
+        "ts-loader": "^7.0.5",
+        "typescript": "^3.9.5",
+        "vue-property-decorator": "^8.4.2",
+        "vue-template-compiler": "^2.6.10",
+        "webpack": "^4.43.0",
+        "webpack-cli": "^3.3.12"
+    },
+    "homepage": "https://github.com/Galadrielme/qwerty#readme",
+    "keywords": [
+        "vue"
+    ],
+    "license": "ISC",
+    "main": "index.js",
+    "name": "@galadrielme/qwerty-ui",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Galadrielme/qwerty.git"
+    },
+    "scripts": {
+        "dev": "webpack --mode development"
+    },
+    "version": "1.0.0"
+}
